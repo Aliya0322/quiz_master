@@ -39,6 +39,6 @@ quizmaster/
 
 ## Быстрый старт
 
-1. Клонируйте репозиторий:
+Клонируйте репозиторий:
 ```bash
 git clone https://github.com/Aliya0322/quiz_master.git
