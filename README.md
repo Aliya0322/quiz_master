@@ -35,6 +35,7 @@ quizmaster/
 │
 ├── package.json
 └── README.md
+```
 
 ## Быстрый старт
 
