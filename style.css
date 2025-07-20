@@ -1,0 +1,44 @@
+body {  
+    max-width: 250px; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+
+.quiz-container { 
+    background: #f5f5f5; 
+    padding: 20px; 
+    border-radius: 8px; 
+}
+
+select, button { 
+    padding: 10px; 
+    margin: 10px 0; 
+    width: 100%; 
+}
+button:disabled { 
+    opacity: 0.5; 
+}
+
+.question { 
+    margin: 20px 0; 
+}
+
+.choices { 
+    list-style: none; 
+    padding: 0; 
+}
+.choice { 
+    padding: 10px; 
+    margin: 5px 0; 
+    background: #fff; 
+    cursor: pointer;
+}
+
+.choice:hover { 
+    background: #e0e0e0; 
+}
+
+.result { 
+    margin-top: 20px;
+    font-weight: bold; 
+}
